@@ -1,4 +1,5 @@
-### Hi there 👋
+### Josue Morales
+## Estudio en la Universidad de las Fuerzas Armadas ESPE, a la fecha estoy a punto de cursar el Quinto semestre de Ingenieria en Software.
 
 <!--
 **MrT-coder/MrT-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
