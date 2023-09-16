@@ -19,7 +19,7 @@ Actualmente estudio en la Universidad de las Fuerzas Armadas ESPE 🏫 en Ecuado
 ![](https://github-contributor-stats.vercel.app/api?username=MrT-coder&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ## DevCard
-![]()
+![](<a href="https://app.daily.dev/Josuebmll"><img src="https://api.daily.dev/devcards/c4cf833839ff436081d880178679acee.png?r=f0f" width="400" alt="Josue Bladimir Morales Llanganate's Dev Card"/></a>)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MrT-coder&icon=2&color=1)](https://visitcount.itsvg.in)
