@@ -15,8 +15,11 @@ Actualmente estudio en la Universidad de las Fuerzas Armadas ESPE 🏫 en Ecuado
 ## 🏆 GitHub Trofeos
 ![](https://github-profile-trophy.vercel.app/?username=MrT-coder&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Contribuciones
 ![](https://github-contributor-stats.vercel.app/api?username=MrT-coder&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+## DevCard
+![]()
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MrT-coder&icon=2&color=1)](https://visitcount.itsvg.in)
