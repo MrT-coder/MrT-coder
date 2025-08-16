@@ -1,5 +1,5 @@
 #                                                                                Hola ✌️, soy Josue Morales
-Actualmente estudio en la Universidad de las Fuerzas Armadas ESPE 🏫 en Ecuador, estoy terminando el Octavo semestre de Ingeniería en Software 🧑‍💻,  quiero aplicar de la mejor manera los conocimientos adquiridos <br>en mi carrera y siempre dar lo mejor en cualquier reto que tenga el futuro para mi. <br>Espero adquirir muchos más conocimientos con el tiempo y ser un gran profesional haciendo lo que me gusta.
+Egresado de la carrera Ingeniería Software con sólida formación académica y experiencia práctica en el desarrollo de soluciones tecnológicas. Persona curiosa y proactiva que busca siempre dar lo mejor tanto en lo personal como en lo laboral, enfocado en crear soluciones software robustas, siguiendo buenas prácticas y teniendo un análisis profundo de las diferentes maneras de resolver un problema mediante un producto software.
 
 
 ## 🌐 Redes Sociales:
