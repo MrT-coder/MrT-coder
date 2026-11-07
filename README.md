@@ -16,6 +16,7 @@ Actualmente en **FirmaSeguraEc**, desarrollando flujos de emisión de firma elec
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:juniorbmorales@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/josuebmll)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/JosueMorales)
+[![Web Personal](https://img.shields.io/badge/JBMLLWEB-green)](https://jbmllnube.com/)
 
 # 💻 Tecnologías
 
